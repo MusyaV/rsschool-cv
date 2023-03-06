@@ -74,3 +74,25 @@ describe("Multiply", () => {
 ```
 
 ***
+
+#### ```work experience```
+
+* __Front-end Developer__
+Freelancer(2021-present)
+Israel
+Full website cycle (Fronend - HTML, CSS, JavaScript; Backend - PHP, SQL). SEO - google ads. Website building on WordPress, SEO website optimization.
+
+* __Front-end Developer__
+GEOSOLUTION (2017-2021)
+Minsk, Belarus
+Participation in the design of web sites and web applications and services (development of product architecture and algorithms, search for balanced solutions and their effective implementation).
+Layout of sites, templates, e-mail newsletters, promotional pages (Landing Page).
+interactive elements based on design layouts;
+Optimization and expansion of the functionality of the existing code.
+
+* __Architect__
+Frame construction technologies, Minsk (2006-2017)
+Preparation, execution, verification of project documentation. Coordination of design decisions, consultations on the project. Checking design estimates.
+Development of an interior design project.
+
+***
