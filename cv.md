@@ -36,3 +36,41 @@ Architecture, Minsk(2005-2010)
 Architecture, Minsk(2001-2005)
 
 ***
+
+#### ```pro.skills```
+
+* _JavaScript_
+* _HTML_
+* _CSS_
+* _SASS_
+* _React_
+* _Git_
+* _Figma_
+* _Node.js_
+* _PHP_
+* _SQL_
+* _PhotoShop_
+
+***
+
+#### ```Code example```
+
+```
+function multiply(a, b){
+  return a * b
+}
+
+Sample Tests:
+const assert = require("chai").assert;
+
+describe("Multiply", () => {
+  it("fixed tests", () => {
+    assert.strictEqual(multiply(1,1), 1);
+    assert.strictEqual(multiply(2,1), 2);
+    assert.strictEqual(multiply(2,2), 4);
+    assert.strictEqual(multiply(3,5), 15);   
+  });
+});
+```
+
+***
