@@ -96,3 +96,17 @@ Preparation, execution, verification of project documentation. Coordination of d
 Development of an interior design project.
 
 ***
+
+#### ```projects```
+
+[music website template](https://site2.mashaweb.website/)
+
+***
+
+#### ```Languages```
+
+* Russian(native)
+
+* English(B2)
+
+* Hebrew(ב)
