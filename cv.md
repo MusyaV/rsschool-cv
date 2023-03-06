@@ -21,3 +21,18 @@ __Address:__ Haifa, Israel
 [Github](https://github.com/MusyaV)
 
 ***
+
+####```education```
+
+* RS School
+JavaScript/Front-end(2023)
+* Udemy
+JavaScript + React Course(2023)
+* Udemy
+Web developer(2016)
+* Belarusian National Technical University
+Architecture, Minsk(2005-2010)
+* Minsk Architecture Construction College
+Architecture, Minsk(2001-2005)
+
+***
