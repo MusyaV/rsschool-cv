@@ -22,7 +22,7 @@ __Address:__ Haifa, Israel
 
 ***
 
-####```education```
+#### ```education```
 
 * RS School
 JavaScript/Front-end(2023)
