@@ -21,9 +21,11 @@ body {
 }
 #headerInfo {
   width: 75%;
+  margin-bottom: 10px;
 }
 #headerEdu {
   width: 75%;
+  margin: 10px 0px;
 }
 .light {
   border-radius: 0px 30px 30px 0px;
@@ -41,19 +43,37 @@ h2 {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
-.itemInfo{
-    display: flex;
-    align-items: center;
-    gap: 10px;
+.itemInfo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-left: 20px;
+}
+.icon {
+  width: 20px;
+  height: 20px;
+}
+h3 {
+  margin: 5px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: normal;
+}
+.circle {
+  width: 10px;
+  height: 10px;
+  background-color: #3b3b3b;
+  border-radius: 50%;
+}
+.itemEdu{
+    display: grid;
+    grid-template-columns: 5% 95%;
     padding-left: 20px;
+    align-items: baseline;
 }
-.icon{
-width: 20px;
-height: 20px;
-}
-h3{
+h4 {
     margin: 5px;
     font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+      "Lucida Sans", Arial, sans-serif;
     font-weight: normal;
-}
+  }
