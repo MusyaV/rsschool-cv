@@ -20,9 +20,12 @@ __Address:__ Haifa, Israel
 
 [Github](https://github.com/MusyaV)
 
+
 ***
 
+
 #### ```education```
+
 
 * RS School
 JavaScript/Front-end(2023)
