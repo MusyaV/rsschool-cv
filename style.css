@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  height: auto;
+  margin: 0px;
+}
+#secLeft {
+  width: 45%;
+  background-color: #ffeeba;
+}
+#img{
+    text-align: center;
+}
+#imgMain {
+  width: 70%;
+  border-radius: 50%;
+  border: 8px solid rgb(41, 41, 41);
+  margin: 20px auto;
+}
+#secRight {
+  width: 55%;
+}
