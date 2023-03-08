@@ -18,6 +18,7 @@ body {
 }
 #secRight {
   width: 55%;
+  position: relative;
 }
 #headerInfo {
   width: 75%;
@@ -37,6 +38,14 @@ body {
 }
 .dark {
   border-radius: 0px 30px 30px 0px;
+  background-color: #847567;
+}
+.light2 {
+  border-radius: 30px 0px 0px 30px;
+  background-color: #c1b190;
+}
+.dark2 {
+  border-radius: 30px 0px 0px 30px;
   background-color: #847567;
 }
 h2 {
@@ -81,6 +90,24 @@ h4 {
     "Lucida Sans", Arial, sans-serif;
   font-weight: normal;
 }
+h1#big {
+  font-size: 40px;
+  margin: 15px 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: normal;
+}
+h1#small {
+  font-size: 20px;
+  margin: 15px 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: normal;
+  border-bottom: 3px solid #3b3b3b;
+  padding-bottom: 5px;
+  width: 55%;
+  margin-bottom: 0px;
+}
 #skills {
   display: grid;
   width: 80%;
@@ -92,4 +119,44 @@ h4 {
   display: flex;
   align-items: center;
   gap: 5px;
+}
+#work {
+  width: 85%;
+  margin-left: 30px;
+  height: 608.5px;
+  /* border-bottom: 3px solid #3b3b3b; */
+  border-left: 3px solid #3b3b3b;
+}
+#headerWork {
+  width: 284px;
+  position: absolute;
+  right: 0px;
+  top: 120px;
+}
+.rightH2 {
+  margin-left: 10px;
+}
+#work1 {
+  width: 82%;
+  border-bottom: 3px solid #3b3b3b;
+  position: absolute;
+  top: 180px;
+  padding: 7px;
+}
+#work2 {
+  width: 82%;
+  border-bottom: 3px solid #3b3b3b;
+  position: absolute;
+  top: 310px;
+  padding: 7px;
+}
+#work3 {
+  width: 82%;
+  border-bottom: 3px solid #3b3b3b;
+  position: absolute;
+  top: 550px;
+  padding: 7px;
+}
+.gray{
+   color: #3b3b3bb4; 
 }
