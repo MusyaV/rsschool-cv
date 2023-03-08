@@ -1,4 +1,4 @@
-![main photo](/rsschool-cv/photo1.jpg)
+![main photo](/rsschool-cv/img/photo1.jpg)
 
 ## MARIA VILENCHYK
 
