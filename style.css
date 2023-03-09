@@ -168,6 +168,26 @@ h1#small {
   gap: 5px;
   margin-left: 20px;
 }
-#lang{
+#lang {
   margin-bottom: 30px;
+}
+#headerProject {
+  width: 60%;
+  float: right;
+  margin-right: 0px;
+}
+a {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-decoration: none;
+  color: #3b3b3b;
+  font-weight: bold;
+}
+#project1 {
+  margin-top: 70px;
+  text-align: center;
+}
+#project2 {
+  margin-top: 10px;
+  text-align: center;
 }
